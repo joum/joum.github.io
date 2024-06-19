@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://joum.github.io/">
+  <channel>
+    <title>joum's Blog</title>
+    <link>http://joum.github.io/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>It's 2024, I should build a blog!</title>
+  <link>http://joum.github.io/topic/drupal/its-2024-i-should-build-blog</link>
+  <description>
+&lt;span&gt;It's 2024, I should build a blog!&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;joum&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-06-18T16:23:53+01:00" title="Tuesday, June 18, 2024 - 16:23"&gt;Tue, 06/18/2024 - 16:23&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 18 Jun 2024 15:23:53 +0000</pubDate>
+    <dc:creator>joum</dc:creator>
+    <guid isPermaLink="false">105 at http://joum.github.io</guid>
+    </item>
+<item>
+  <title>Habemos Blog!</title>
+  <link>http://joum.github.io/topic/random/habemos-blog</link>
+  <description>
+&lt;span&gt;Habemos Blog!&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;joum&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-06-18T16:16:14+01:00" title="Tuesday, June 18, 2024 - 16:16"&gt;Tue, 06/18/2024 - 16:16&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 18 Jun 2024 15:16:14 +0000</pubDate>
+    <dc:creator>joum</dc:creator>
+    <guid isPermaLink="false">104 at http://joum.github.io</guid>
+    </item>
+
+  </channel>
+</rss>
